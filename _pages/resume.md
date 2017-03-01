@@ -19,7 +19,7 @@ Education
 Work Experience
 ----------
 
-=============================================================
+---
 
 **Bank Teller, J.P. Morgan & Chase**; August 2016 - Present
 
@@ -31,7 +31,7 @@ the various needs of customers.
 * Gained confidence in my ability to calm difficult customers, and work
 with them until they are satisfied.
 
-=============================================================
+---
 
 **Programming Tutor, Sacramento City College**; May 2013 - May 2014
 
@@ -45,7 +45,7 @@ with them until they are satisfied.
 * Unix/Linux
 * SQL
 
-=============================================================
+---
 
 **Software Developer/Consultant, IID Groupe**; August 2015 - January 2016
 
@@ -56,7 +56,7 @@ with them until they are satisfied.
 personal files effectively.
 * Acquired the skills necessary to build server-based reports using SSRS.
 
-=============================================================
+---
 
 Technical Experience
 ----------
