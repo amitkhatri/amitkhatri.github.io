@@ -73,7 +73,7 @@ Technical Skills
 
 **IT**
 * Troubleshooting and repairing desktop/laptops (Windows, Linux, OSX)
-* Disk imaging (Filezillz, Norton Ghost)
+* Disk imaging (Filezilla, Norton Ghost)
 * Data Recovery (Using Linux live cds to mount and recover data
   from unbootable systems)
 
