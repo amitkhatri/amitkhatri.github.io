@@ -58,7 +58,7 @@ personal files effectively.
 
 ---
 
-Technical Experience
+Technical Skills
 ----------
 
 
@@ -70,3 +70,15 @@ Technical Experience
 * Source control via RCS & Git
 * Compiling and debugging software with GCC & GDB
 * Experience with various distributions, ranging from Ubuntu to Arch
+
+**IT**
+* Troubleshooting and repairing desktop/laptops (Windows, Linux, OSX)
+* Disk imaging (Filezillz, Norton Ghost)
+* Data Recovery (Using Linux live cds to mount and recover data
+  from unbootable systems)
+
+**Programming**
+* See tutoring experience
+* C++, Java, Bash (6yrs)
+* HTML, CSS, Javascript (~2 months)
+* Can pick up new languages fairly quickly
