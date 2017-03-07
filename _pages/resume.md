@@ -37,9 +37,6 @@ with them until they are satisfied.
 
 : One on one tutoring for all computer science courses offered at the institution.
 
-: I learned a great deal of patience during my time as a tutor. Concepts that I find easy to grasp, can be difficult for those who are new to computer science. Teaching others allowed me to gauge how well I knew the material myself.
-
-
 : **Subjects Tutored:**
 * Algorithm Design
 * C++
