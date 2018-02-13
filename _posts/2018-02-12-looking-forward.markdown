@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Looking Forward"
-date: 2018-02-28 19:26:00 -0800
+date: 2018-02-12 19:26:00 -0800
 categories: thoughts
 ---
 Words cannot explain how difficult it is to look in the mirror after being stagnant for years. Your passion and zest for life are like a candle that's been blown out. You wake up every morning and wait until the moment you can crawl back into bed. You see your friends and the first words out of their mouth are "Where the hell have you been?". You walk up to the woman you love and the first thought in her mind is "I hope he's okay today".
