@@ -18,4 +18,4 @@ This is a promise to you, and a promise to me.
 
 Amit
 
-![My helpful screenshot]({{ "/_assets/windows-desktop.jpg" | absolute_url }}
+![My helpful screenshot]({{ "/assets/windows-desktop.jpg" | absolute_url }}
