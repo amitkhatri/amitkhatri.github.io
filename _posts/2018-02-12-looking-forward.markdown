@@ -15,3 +15,5 @@ One project I'd like to take off the backburner is writing and publishing a book
 Each chapter will be posted here as I write them and when it is complete, I will move on to figuring out how to publish it.
 
 This is a promise to you, and a promise to me.
+
+Amit
