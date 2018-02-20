@@ -17,3 +17,5 @@ Each chapter will be posted here as I write them and when it is complete, I will
 This is a promise to you, and a promise to me.
 
 Amit
+
+![My helpful screenshot]({{ "/_assets/windows-desktop.jpg" | absolute_url }})
