@@ -22,7 +22,7 @@ github_username:  amitkhatri
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
 gems:
   - jekyll-feed
 exclude:
