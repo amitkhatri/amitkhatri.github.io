@@ -2,7 +2,7 @@
 layout: post
 title: "Cooking Tips"
 date: 2018-05-20
-categories: recipe
+categories: tips
 ---
 Your ADHD ass is gonna be thanking me later.
 
