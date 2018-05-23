@@ -1,0 +1,26 @@
+---
+layout: post
+title: "HT1"
+date: 2018-05-22
+categories: ht1
+---
+What about a shell script that could easily tell you whether you're opening or closing at work?
+
+Inside of a plain text file write down your schedule for the week as such:
+
+"O" = opening
+"C" = closing
+"X" = day off
+
+MON: O
+TUE: C
+WED: C
+THU: X
+FRI: O
+SAT: O
+
+Have the bash script parse the file and output your work schedule to the screen. Let
+the name of the executable be "ws" (work schedule) with the option for args such as
+ws -t (work schedule for tommorow) ws -w (work schedule for the entire week). Have 
+ws w/o args print the week by default. Remember to put a task warrior reminder to
+update the schedule every sunday.
