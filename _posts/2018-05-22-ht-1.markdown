@@ -24,3 +24,17 @@ the name of the executable be "ws" (work schedule) with the option for args such
 ws -t (work schedule for tommorow) ws -w (work schedule for the entire week). Have 
 ws w/o args print the week by default. Remember to put a task warrior reminder to
 update the schedule every sunday.
+
+::::::::::::::::::::::::::::
+
+It would be a good idea to make an alias command that would take you to the directory
+where you store all of your writing. You aren't good at keeping directories in your head.
+
+::::::::::::::::::::::::::::
+
+JUST EAT
+
+::::::::::::::::::::::::::::
+
+
+
