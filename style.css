@@ -18,6 +18,7 @@ html{
 body{
   background-image: url("Images/bg.jpg");
   background-size: cover;
+  background-repeat: no-repeat;
   font-family: Oswald;
 }
 
