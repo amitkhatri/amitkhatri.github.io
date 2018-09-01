@@ -9,6 +9,7 @@
 #about{
   text-align: center;
   padding-top: 50%;
+  padding-bottom: 50%;
 }
 
 
@@ -19,6 +20,7 @@ body{
   background-image: url("Images/bg.jpg");
   background-size: cover;
   background-repeat: no-repeat;
+  background-attachment: fixed;
   font-family: Oswald;
 }
 
@@ -28,10 +30,21 @@ h1{
 }
 
 hr{
-  width: 400px;
+  width: 50%;
   color: black;
   border-top: 1px solid #f8f8f8;
   border-bottom: 1px solid rgba(0,0,0,0.2);
+}
+
+.abtimg{
+  border-radius: 50%;
+  max-width: 30%;
+}
+
+.abtxt{
+  padding-top: 3%;
+  margin-left: 30%;
+  margin-right: 30%;
 }
 
 .navbar{
