@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "Pantry Staples"
+date:   2021-10-03 15:00:00 -0700
+categories: food recipes 
+---
+
+* Milk
+* Shredded Cheese
+* Hatch Chile
+* Eggs
+* Rice
+* Ground chicken
+* Chicken Sausage
+* Onion
+* Garlic
+* Cereal
+* Tortilla
+* Pasta
+* Pasta Sauce
+* Frozen Pot Pie
+* Frozen Pizza
+* Mixed Greens
+* Chipotles
+* Butter
+
+
+
